@@ -184,7 +184,7 @@ Worked on OCR, NLP pipelines, and AI-powered question paper generation systems.
 # 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/naman-jain-9136732aa](https://linkedin.com/in/naman-jain-9136732aa)
-* 💻 GitHub: [[https://github.com/Namanjain122](https://github.com/Namanjain122/)
+* 💻 GitHub: [https://github.com/Namanjain122](https://github.com/Namanjain122/)
 * 📧 Email: nanu2006aug@gmail.com
 * 🧠 LeetCode: [https://leetcode.com/Namanjain122](https://leetcode.com/u/Namanjain122/)
 
