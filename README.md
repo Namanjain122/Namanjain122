@@ -183,10 +183,10 @@ Worked on OCR, NLP pipelines, and AI-powered question paper generation systems.
 
 # 🤝 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-* 💻 GitHub: [https://github.com/YOUR_GITHUB](https://github.com/YOUR_GITHUB)
-* 📧 Email: YOUR_EMAIL
-* 🧠 LeetCode: [https://leetcode.com/YOUR_LEETCODE](https://leetcode.com/YOUR_LEETCODE)
+* 💼 LinkedIn: [https://linkedin.com/in/naman-jain-9136732aa](https://linkedin.com/in/naman-jain-9136732aa)
+* 💻 GitHub: [[https://github.com/Namanjain122](https://github.com/Namanjain122/)
+* 📧 Email: nanu2006aug@gmail.com
+* 🧠 LeetCode: [https://leetcode.com/Namanjain122](https://leetcode.com/u/Namanjain122/)
 
 ---
 
