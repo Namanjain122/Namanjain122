@@ -8,7 +8,7 @@ I enjoy transforming ideas into production-oriented applications using modern AI
 
 ---
 
-#  About Me
+#  About Me 👇
 
 * 🎓 B.Tech CSE Student at Galgotias University (CGPA: 9.3)
 * 💻 Strong foundation in Data Structures & Algorithms
