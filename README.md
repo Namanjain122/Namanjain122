@@ -1,6 +1,6 @@
 # Hi there, I'm Naman Jain 👋
 
-## 🚀 AI Engineer | Software Developer | Computer Vision Enthusiast
+## Software Developer | 🚀 AI Engineer | Computer Vision Enthusiast
 
 I am a Computer Science Engineering student passionate about building real-world AI systems and scalable software solutions. My work focuses on **Generative AI, Computer Vision, Deep Learning, NLP, Backend Development, and AI Automation**.
 
